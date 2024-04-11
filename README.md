@@ -9,7 +9,7 @@ My research interests include:
 - Technologies: Generative Model, Multimodel Understanding and Learning, RLHF
 
 # 📎 Homepages
-- Personal Pages: [https://rayeren.github.io](https://hannieliao.github.io/) (updated recently🔥)
+- Personal Pages: [https://hannieliao.github.io](https://hannieliao.github.io/) (updated recently🔥)
 
 <!--
 **Hannieliao/Hannieliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
