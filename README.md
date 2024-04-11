@@ -2,7 +2,7 @@
 
 My name is Huan Liao(廖欢). I am currently a second-year master's student at Tsinghua University, based in Shenzhen.
 
-I am now working on Text-to-audio generation, Video-to-audio generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [liaoh22@mails.tsinghua.edu.cn](mailto:liaoh22@mails.tsinghua.edu.cn).
+I am now working on Text-to-audio generation, Video-to-audio generation research.
 
 My research interests include:
 - Applications: **Speech, Audio Generation**
@@ -10,6 +10,7 @@ My research interests include:
 
 # 📎 Homepages
 - Personal Pages: [https://hannieliao.github.io](https://hannieliao.github.io/) (updated recently🔥)
+- Email: [liaoh22@mails.tsinghua.edu.cn](mailto:liaoh22@mails.tsinghua.edu.cn).
 
 <!--
 **Hannieliao/Hannieliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
