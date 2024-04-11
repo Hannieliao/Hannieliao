@@ -8,6 +8,9 @@ My research interests include:
 - Applications: **Speech, Audio Generation**
 - Technologies: Generative Model, Multimodel Understanding and Learning, RLHF
 
+# 📎 Homepages
+- Personal Pages: [https://rayeren.github.io](https://hannieliao.github.io/) (updated recently🔥)
+
 <!--
 **Hannieliao/Hannieliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
