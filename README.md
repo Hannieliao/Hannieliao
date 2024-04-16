@@ -5,7 +5,7 @@ My name is Huan Liao(廖欢). I am currently a second-year master's student at T
 I am now working on Text-to-audio generation, Video-to-audio generation research.
 
 My research interests include:
-- Applications: **Speech, Audio Generation**
+- Applications: **Audio Generation**
 - Technologies: Generative Model, Multimodel Understanding and Learning, RLHF
 
 # 📎 Homepages
