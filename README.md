@@ -1,12 +1,12 @@
-### 👋 Hi there 
+## 👋 Hi there 
 
 Hi, I'm Huan Liao, a second-year master's student at Tsinghua University, based in Shenzhen.
 
-# 📖 Research interests
+## 📖 Research interests
 - Applications: **Text-to-audio generation, Video-to-audio generation**
 - Technologies: Generative Model, Multimodel Understanding and Learning, RLHF
 
-# 📎 Homepages
+## 📎 Homepages
 - Personal Pages: [https://hannieliao.github.io](https://hannieliao.github.io/) (updated recently🔥)
 - Email: [liaoh22@mails.tsinghua.edu.cn](mailto:liaoh22@mails.tsinghua.edu.cn).
 
