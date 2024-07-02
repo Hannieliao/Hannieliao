@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Huan Liao(廖欢). I am currently a second-year master's student at Tsinghua University, based in Shenzhen.
+Hi, I'm Huan Liao, a second-year master's student at Tsinghua University, based in Shenzhen.
 
 I am now working on Text-to-audio generation, Video-to-audio generation research.
 
