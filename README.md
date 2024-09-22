@@ -8,7 +8,7 @@ Hi, I'm Huan Liao, a second-year master's student at Tsinghua University, based 
 
 ## 📎 Homepages
 - Personal Pages: [https://hannieliao.github.io](https://hannieliao.github.io/) (updated recently🔥)
-- Google Scholar: https://scholar.google.com/citations?user=9mFDVT8AAAAJ&hl=zh-CN&authuser=1&oi=sra
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=9mFDVT8AAAAJ&hl=zh-CN&authuser=1&oi=sra)
 - Email: [liaoh22@mails.tsinghua.edu.cn](mailto:liaoh22@mails.tsinghua.edu.cn).
 
 <!--
