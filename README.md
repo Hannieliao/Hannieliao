@@ -2,12 +2,8 @@
 
 Hi, I'm Huan Liao, a first-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Professor [Zhizheng Wu](https://drwuz.com/). Prior to joining CUHK-Shenzhen, I received my Master's degree from Tsinghua University, working on Text-to-audio generation.
 
-My research interests include:
-- Applications: **Speech Generation**, **Audio Generation**
-- Technologies: Generative Model, Multimodel Understanding and Learning, RLHF
-
 ## 📖 Research interests
-- Applications: **Text-to-audio generation, Video-to-audio generation**
+- Applications: **Speech Generation, Audio Generation**
 - Technologies: Generative Model, Multimodel Understanding and Learning, RLHF
 
 ## 📎 Homepages
